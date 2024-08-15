@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Title: Ultimate Android Forensics and Remote Access Toolkit
-# Author: [Your Name]
+# Author: Taylor Christian Newsome
 # Purpose: This script is designed to perform kernel and firmware dumps, set up secure remote access, and allow device flashing, with robust compatibility across all Android versions.
 
 echo "Starting Ultimate Android Toolkit..."
